@@ -1,2 +1,1 @@
-# ElevateJavaInternship
-Java internship with elevate labs
+Simple Calculator
